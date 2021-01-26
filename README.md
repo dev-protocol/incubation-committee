@@ -13,7 +13,7 @@
 5. Edit the copied template
 6. Add a description as needed, and click **"Commit new file"** ![Commit new file](https://i.imgur.com/ToZhVwa.png)
 7. Open the **"Pull request"** link ![Pull request](https://i.imgur.com/OXjXNBU.png)
-7. Send your pull request
+8. Send your pull request
 
 ### Or using git
 
