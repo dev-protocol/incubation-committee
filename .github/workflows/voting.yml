@@ -1,4 +1,4 @@
-name: "Voting"
+name: Voting
 
 on:
   pull_request_target:
