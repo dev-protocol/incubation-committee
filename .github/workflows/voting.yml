@@ -2,7 +2,7 @@ name: Voting
 
 on:
   pull_request_target:
-    types: [opened, synchronize, reopened, closed]
+    types: [opened, reopened, closed]
 
 jobs:
   democracy:
