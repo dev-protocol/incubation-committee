@@ -9,11 +9,11 @@
 1. Fork this repository as your GitHub repository
 2. Open the `/projects` folder on GitHub
 3. Open the **"Create new file"** link ![Create new file](https://i.imgur.com/FZITkEM.png)
-4. Copy the contents of [project-proposal-template.yml](https://github.com/dev-protocol/incubation-committee/blob/main/project-proposal-template.yml) and paste it into the in-browser editor. And name to the file, like `PROJECT_NAME.yml`(_**.yml**_ required!) ![In-browser editor](https://i.imgur.com/YE3pxvh.png)
+4. Copy the contents of [project-proposal-template.yml](https://github.com/dev-protocol/incubation-committee/blob/main/project-proposal-template.yml) and paste it into the in-browser editor. And name to the file, like `PROJECT_NAME.yml`(_**.yml**_ required!) ![In-browser editor](https://i.imgur.com/FA90G8F.png)
 5. Edit the copied template
 6. Add a description as needed, and click **"Commit new file"** ![Commit new file](https://i.imgur.com/ToZhVwa.png)
 7. Open the **"Pull request"** link ![Pull request](https://i.imgur.com/OXjXNBU.png)
-8. Send your pull request
+7. Send your pull request
 
 ### Or using git
 
