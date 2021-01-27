@@ -1,7 +1,7 @@
 {
-	"name": "template-repos-static",
+	"name": "incubation-committee",
 	"private": true,
-	"description": "Template repository for static files",
+	"description": "Incubation Committee",
 	"scripts": {
 		"lint": "prettier --write '**/*.{json,md,yml}'"
 	},
