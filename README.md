@@ -4,6 +4,13 @@
 
 ## How to propose a new incubation project
 
+### tl;dr
+
+1. Fork this
+2. Copy `project-proposal-template.yml`, paste and rename it under `/projects`
+3. Edit contents on the copied template
+4. Commit it and pull-request to this
+
 ### An easy way to do that using GitHub
 
 1. Fork this repository as your GitHub repository
