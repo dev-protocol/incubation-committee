@@ -1,5 +1,9 @@
 # Incubation Committee
 
+Dev Protocol Incubator is for OSS projects that are underfunded relative to their usage and mission.
+
+Incubation Committee solicits OSS to be funded by open call, and all committee members vote to decide the staking as a grant. These processes are open to the public transparently through [this GitHub Project](https://github.com/orgs/dev-protocol/projects/7).
+
 ![Logo image](https://raw.githubusercontent.com/dev-protocol/incubation-committee/main/assets/logo.png)
 
 ## How to propose a new incubation project
